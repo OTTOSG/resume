@@ -17,7 +17,7 @@ centrado no usuário.
 
 ## Formação
 - Análise e desenvolvimento de sistemas
-- Tecnico em Infomática
+- Técnico em Infomática
 
 
 
