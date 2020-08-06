@@ -24,6 +24,4 @@ centrado no usuário.
 ## Me encontre nas redes sociais
 - [Linkedin](https://www.linkedin.com/in/osg/)
 
-- [Medium](https://medium.com/@otavioguimaraes.so)
-
 - [Instagram](https://www.instagram.com/@ux.otto)
